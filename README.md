@@ -36,5 +36,7 @@ LANGCHAIN_API_KEY=your_api_key_here
 
 LANGCHAIN_PROJECT=your_project_name
 
+The Langchain API key is free to use so there is no charge. 
+
 ### DO CREATE YOUR OWN Virtual Environment
 
