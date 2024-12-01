@@ -30,6 +30,11 @@ langchain-ollama
 
 python-dotenv
 
+## .env file Content
+
+LANGCHAIN_API_KEY=your_api_key_here
+
+LANGCHAIN_PROJECT=your_project_name
 
 ### DO CREATE YOUR OWN Virtual Environment
 
